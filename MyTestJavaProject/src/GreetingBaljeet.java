@@ -4,7 +4,7 @@ public class GreetingBaljeet {
 
 	public static void main(String[] args) {
 		Date dateobj = new Date();
-		System.out.println(dateobj);
+		System.out.println("Baljeet, the date today is " + dateobj);
 	}
 
 }
